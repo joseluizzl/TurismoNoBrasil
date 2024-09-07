@@ -42,6 +42,9 @@ function pesquisar() {
     }
     // Insere o HTML gerado na seção de resultados.
     section.innerHTML = resultados;
+
+    // Limpa o campo de pesquisa após exibir os resultados
+  document.getElementById("campo-pesquisa").value = "";
   }
 
 

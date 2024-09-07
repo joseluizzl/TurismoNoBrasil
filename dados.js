@@ -48,5 +48,15 @@ let destinos = [
         titulo: "Jalapão, Tocantins",
         descricao: "O Jalapão é uma região no estado do Tocantins com paisagens exuberantes, como cânions, cachoeiras, dunas e fervedouros. É um destino ideal para quem busca aventura e contato com a natureza.",
         link: "https://pt.wikipedia.org/wiki/Jalapão"
-    }
+    },
+    {
+        titulo: "Gramado, Rio Grande do Sul",
+        descricao: "Gramado e Canela são cidades da Serra Gaúcha conhecidas por sua arquitetura europeia, clima ameno e festividades como a Natal Luz. Oferecem diversas opções de hospedagem, gastronomia e atividades ao ar livre.",
+        link: "https://pt.wikipedia.org/wiki/Gramado"
+    },
+    {
+        titulo: "Ubatuba, São Paulo",
+        descricao: "Ubatuba é um município brasileiro localizado no litoral norte de São Paulo, conhecido por suas diversas praias, cachoeiras e trilhas. É um destino popular para quem busca contato com a natureza e praticar esportes aquáticos.",
+        link: "https://pt.wikipedia.org/wiki/Ubatuba"
+    },
 ];
